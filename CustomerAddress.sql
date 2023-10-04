@@ -1,3 +1,3 @@
-SELECT street
+SELECT name, street
 FROM customers
-WHERE street = 'Av 7 de setembro' ;
+WHERE city = 'Porto Alegre' ;
