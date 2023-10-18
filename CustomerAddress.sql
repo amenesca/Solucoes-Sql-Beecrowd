@@ -2,6 +2,7 @@
 
 Your job is in having the names and addresses of customers who live in 'Porto Alegre', to deliver the invitations personally.
 
+Os dados e tabelas estao no beecrowd
 */
 
 SELECT name, street
