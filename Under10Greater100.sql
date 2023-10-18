@@ -1,4 +1,6 @@
-/*The financial sector of the company needs a report that shows the ID and the name of the products whose price is less than 10 or greater than 100.*/
+/*The financial sector of the company needs a report that shows the ID and the name of the products whose price is less than 10 or greater than 100.
+
+Os dados e tabelas estao no beecrowd*/
 
 SELECT id, "name"
 FROM products
